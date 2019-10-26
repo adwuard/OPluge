@@ -68,7 +68,7 @@ Four buttons:
 This is extremely useful as categorizing your Deluge patches. Since Deluge sorts when scrolling through patches. The name with prefix keeps the sample together.
 Strongly suggest prefix like `A1`...`A12`, `B1`...`B12`...  It kinda acts like a bank. If empty, no prefix will be added. 
 
-## Tool Visualization
+## Visualization Tool
 <img src="DrumChops.png" alt="drum" width="550" height="450">
 
 After scanning patches, double click any item in the top console.
