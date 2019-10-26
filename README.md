@@ -1,7 +1,7 @@
 # OPluge    
 ### OP1 Patch/ Deluge XML Patch Converter  
 
-![](Interface.png)  
+<img src="Interface.png" alt="mainImage" width="550" height="450">
 
 ## Introduction
 OPluge is a sound patch converter built for Teenage Engineering OP-1 and Synthstorm Deluge. Feature abilities to convert OP-1's AIF patch format into Deluge's XML format. This converter converts AIF audio file into WAV into a 44100/16bit audio file. Meanwhile generating Deluge XML patch file that contains OP1's settings.
@@ -16,6 +16,10 @@ OP1 samples are vastly available online such as website `op1.fun`. Make use of t
 - Maximize sample rates up to 44.1 kHz/16bit
 - Export Deluge friendly filing structure.
 - Visualized sample chop graph.
+
+# Available on Codester
+[OPluge - OP1 to Deluge patch converter](https://www.codester.com/items/16222/opluge-python-script?ref=adwuardlai)
+
 
 ## Translated OP1 Patch Settings  
 ##### OP1 Drum Engine -> Deluge Kit
@@ -65,7 +69,8 @@ This is extremely useful as categorizing your Deluge patches. Since Deluge sorts
 Strongly suggest prefix like `A1`...`A12`, `B1`...`B12`...  It kinda acts like a bank. If empty, no prefix will be added. 
 
 ## Tool Visualization
-![](DrumChops.png)
+<img src="DrumChops.png" alt="drum" width="550" height="450">
+
 After scanning patches, double click any item in the top console.
 If the patch is a drum patch. It will then display a visualized graph
 showing the sample chops.
